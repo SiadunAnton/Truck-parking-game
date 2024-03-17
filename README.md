@@ -1,8 +1,10 @@
 # Truck parking game
  Top down 2D mobile game about parking with realistic physic model.
 
+![Preview](/Preview.png)
+
  ## ABOUT
-Truck parking - mobile 2D game with a topdown view. An aim of the game - park a trailer in certain area. By parking process a player can't hit his cargo or truck - game will end if there is any touch.
+A mobile 2D game with a topdown view. An aim of the game - park a trailer in certain area. By parking process a player can't hit his cargo or truck - game will end if there is any touch.
 
 ## FEATURES 
 - comfortable steering wheel for the comfort control of the truck
